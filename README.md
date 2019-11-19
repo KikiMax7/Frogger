@@ -1,5 +1,6 @@
 # Frogger
-
+The repository is a sample demonstration of the Android Game-Frogger
+### Game APK could be retrieved from [Frogger-apk](https://github.com/KikiMax7/Frogger/blob/master/frogger.apk)
 ## Game Overview
 
 _This frogger game is a puzzle game aimed at people 10 years old and above. It has a lovely flat cartoon
