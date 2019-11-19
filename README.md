@@ -9,6 +9,13 @@ _This frogger game is a puzzle game aimed at people 10 years old and above. It h
  which is indicated by the number of cloves on the top left conner of the screen. After failing three times, game will 
  fail and jump to the finish page. Only successfully crossing the driveway and going across the river by 
  jumping between lotus and finally get back home and lying on bed means that the game wins._ 
+ + Game Concept: Frog travels back to home.
+ + Genre: Adventure,Puzzle Game	
+ + Target Audience: 10+ years old.
+ + Look and Feel: Flat and Cartoon design. Looks good, feels good.
+ + Game Flow Summary:            
+      
+ <img src="https://github.com/KikiMax7/Frogger/blob/master/demoPics/flowchart.jpg"  width="70%" height="70%">
  
 
 ### Inspiration
