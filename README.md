@@ -10,8 +10,6 @@ _This frogger game is a puzzle game aimed at people 10 years old and above. It h
  fail and jump to the finish page. Only successfully crossing the driveway and going across the river by 
  jumping between lotus and finally get back home and lying on bed means that the game wins._ 
  
- <img src="https://github.com/KikiMax7/Frogger/blob/master/demoPics/welcomePage.png"  width="40%" height="40%"> <img src="https://github.com/KikiMax7/Frogger/blob/master/demoPics/gameView.png"  width="40%" height="40%">
-
 
 ### Inspiration
 
@@ -23,3 +21,23 @@ _This frogger game is a puzzle game aimed at people 10 years old and above. It h
 + BGM from Honkai Impact 3rd [Xia Ri Hui Yi](http://www.bilibili.com/video/av26185092)
 + Sound Effect from [Honkai Impact 3rd](http://www.global.honkaiimpact3.com/).
 + UI images editted from [Travel Frog](http://www.hit-point.co.jp/games/tabikaeru/).
+
+### Mechanics
+ + Mechanics: The player(the frog) need to travel across the highway, travel across the river and go back to bed.
+ The frog can not swim and might bump into the car. 
+ So player should avoid run into a car on the highway. And jump on the lotus only to cross the river.
+ + Movement in the game: The frog can move forward, backward, left, right.
+ + Actions: The frog will jump on the Lotus.
+ + Replaying: Every Player have 3 lives. When all lives are used and can not reach goal, 
+ the game will over and player can choose to restart.
+
+### Easter Eggs
+  + Every failure will trigger different kind of sound effect and GameOver view.
+  + Success will trigger the Game Win view.
+  + The frog is an otaku and has many video games.
+  
+  
+### Screenshots of Game
+ <img src="https://github.com/KikiMax7/Frogger/blob/master/demoPics/welcomePage.png"  width="40%" height="40%"> <img src="https://github.com/KikiMax7/Frogger/blob/master/demoPics/gameView.png"  width="40%" height="40%">
+
+
