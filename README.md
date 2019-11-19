@@ -10,8 +10,8 @@ _This frogger game is a puzzle game aimed at people 10 years old and above. It h
  fail and jump to the finish page. Only successfully crossing the driveway and going across the river by 
  jumping between lotus and finally get back home and lying on bed means that the game wins._ 
  
- ![welcome](demoPics/welcomePage.png =100)
- ![gameView](demoPics/gameView.png =100)
+ <img src="https://github.com/KikiMax7/Frogger/blob/master/demoPics/welcomePage.png"  width="40%" height="40%"> <img src="https://github.com/KikiMax7/Frogger/blob/master/demoPics/gameView.png"  width="40%" height="40%">
+
 
 ### Inspiration
 
